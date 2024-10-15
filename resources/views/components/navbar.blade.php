@@ -2,10 +2,10 @@
 <nav x-data="{ open: false }" class="bg-white border-b border-gray-100">
     <!-- Dekstop menu -->
     <div class="hidden md:flex navbar bg-base-100 drawer lg:drawer-open">
-        <div class="flex-1">
+        <div class="flex-shrink-0 ml-2">
             <!-- Logo -->
             <a href="{{ route('dashboard') }}">
-                <x-application-logo class="block h-9 w-auto fill-current text-white" />
+                <x-application-logo class="block h-10 w-14 fill-current text-white" />
             </a>
         </div>
         <!-- Search -->
@@ -30,8 +30,6 @@
                     </div>
                 </div>
                 <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-                    <li><a>View Profile / {{ Auth::user()->name }}</a></li>
-                    <li><a>Edit Avatar</a></li>
                     <li>
                         <a href="{{ route('profile.edit') }}" class="justify-between">
                             {{ __('Account Settings') }}
