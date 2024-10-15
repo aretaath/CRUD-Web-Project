@@ -24,5 +24,6 @@ class PostEditController extends Controller
         return view('posts.edit', [
             'post' => $post,
         ]);
+
     }
 }
