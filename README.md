@@ -31,8 +31,8 @@ For this project, we planned to make a simple forum website like Quora and Reddi
 - Edit profile page
 - Log out
 
-** First rough sketch of the homepage **
+**First rough sketch of the homepage**
 
 ![image](https://github.com/user-attachments/assets/bb902ec6-3117-418e-bd3e-77dbd5fbd97b)
 
-** Link to our web preview youtube video: https://youtu.be/zhmdh2DUlcU **
+**Link to our web preview youtube video: https://youtu.be/zhmdh2DUlcU**
