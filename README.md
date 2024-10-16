@@ -35,7 +35,7 @@ For this project, we planned to make a simple forum website like Quora and Reddi
 
 We decided to use dark-themed as the interface to allow users to access the website with the more relaxed eyes. As for the color scheme, we choose the color dark dray as the foundation and soft yellow as the components and logo.
 
-**Logo picture review**
+**Logo picture preview**
 
 ![image](https://github.com/user-attachments/assets/c9b9f4ad-65b3-40d7-b51a-d7e69d64297b)
 
