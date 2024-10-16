@@ -28,6 +28,7 @@ For this project, we planned to make a simple forum website like Quora and Reddi
   - Delete post
   - Post a comment in the comment section of a user's post (one-to-many relationship)
   - Remove posted comment
+  - Dropdown for edit profile and log out
 - Edit profile page
 - Log out
 
@@ -42,5 +43,29 @@ We decided to use dark-themed as the interface to allow users to access the webs
 **First rough sketch of the homepage**
 
 ![image](https://github.com/user-attachments/assets/bb902ec6-3117-418e-bd3e-77dbd5fbd97b)
+
+### Webpages Final Look
+
+Welcome Page
+
+![image](https://github.com/user-attachments/assets/99158daf-d1a6-4b21-bbfd-a6a836c54e35)
+
+Log In Page
+
+![image](https://github.com/user-attachments/assets/7f90a7b6-14fc-4d91-9035-c31d3cadf60d)
+
+Sign Up Page
+
+![image](https://github.com/user-attachments/assets/389bbf5d-78df-4d4a-b2e7-74bc43233978)
+
+Home Page
+
+![image](https://github.com/user-attachments/assets/47f30500-aec7-4f51-bce9-e4803f54b6c1)
+
+Edit Profile
+
+![image](https://github.com/user-attachments/assets/56270cf5-728d-477e-ac16-52023e26cb45)
+
+![image](https://github.com/user-attachments/assets/2a244d3c-3b25-43f3-aa3f-40b2353d79db)
 
 **Link to our web preview youtube video: https://youtu.be/zhmdh2DUlcU**
