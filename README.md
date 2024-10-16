@@ -68,4 +68,4 @@ Edit Profile
 
 ![image](https://github.com/user-attachments/assets/2a244d3c-3b25-43f3-aa3f-40b2353d79db)
 
-**Link to our web preview youtube video: https://youtu.be/zhmdh2DUlcU**
+**Link to our web preview youtube video: [https://youtu.be/zhmdh2DUlcU](https://youtu.be/EbbrHTBf4Kw)**
