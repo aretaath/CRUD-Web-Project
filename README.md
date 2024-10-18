@@ -32,6 +32,16 @@ For this project, we planned to make a simple forum website like Quora and Reddi
 - Edit profile page
 - Log out
 
+### Database Relationships
+
+CDM
+
+![image](https://github.com/user-attachments/assets/fdd58e44-bac2-4261-a406-291f15134c25)
+
+PDM
+
+![image](https://github.com/user-attachments/assets/6db8d1dc-2da6-45b4-a3d2-070431959113)
+
 ### UI/UX Design
 
 We decided to use dark-themed as the interface to allow users to access the website with the more relaxed eyes. As for the color scheme, we choose the color dark dray as the foundation and soft yellow as the components and logo.
@@ -48,7 +58,7 @@ We decided to use dark-themed as the interface to allow users to access the webs
 
 Welcome Page
 
-![image](https://github.com/user-attachments/assets/99158daf-d1a6-4b21-bbfd-a6a836c54e35)
+![image](https://github.com/user-attachments/assets/f447b347-e106-419e-9a2c-b34bc412e299)
 
 Log In Page
 
@@ -60,7 +70,9 @@ Sign Up Page
 
 Home Page
 
-![image](https://github.com/user-attachments/assets/47f30500-aec7-4f51-bce9-e4803f54b6c1)
+![image](https://github.com/user-attachments/assets/5020f74c-8a3a-468a-b8ef-0104d04fd8a6)
+
+![image](https://github.com/user-attachments/assets/2591a666-7acb-45b2-a6ce-889834c0124a)
 
 Edit Profile
 
