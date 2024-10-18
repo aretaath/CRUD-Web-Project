@@ -30,6 +30,11 @@ For this project, we planned to make a simple forum website like Quora and Reddi
   - Remove posted comment
   - Dropdown for edit profile and log out
 - Edit profile page
+  - Replace old username by inserting the new one
+  - Replace old email by inserting the new one
+  - Replace old password by inserting the new one (requires to insert old password for verification before changing into the new one)
+  - Re-insert new password
+  - Delete account (requires to insert current password for verification)
 - Log out
 
 ### Database Relationships
